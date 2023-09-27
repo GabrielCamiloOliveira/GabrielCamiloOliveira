@@ -39,5 +39,3 @@
 <p align="left">
 <a href="https://steamcommunity.com/id/phicsgo/" target="_blank"><img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white"></a>
 </p>
-
-![Snake animation](https://github.com/GabrielCamiloOliveira/GabrielCamiloOliveira/blob/output/github-contribuition-grid-snake.svg)

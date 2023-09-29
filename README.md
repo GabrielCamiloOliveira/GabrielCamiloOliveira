@@ -3,7 +3,7 @@
 
 - 🔭 Cursando "Bacharelado em Engenharia de Software" pela **UFG (Universidade Federal de Goiás)**
 
-- 🌱 Atualmente aprendendo **Javascript, React e Python**
+- 🌱 Atualmente aprendendo **React e Javascript**
 
 <h2 align="left">📱 Contato:</h2>
 <p align="left">

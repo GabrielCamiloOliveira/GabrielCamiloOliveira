@@ -34,8 +34,3 @@
 <img src="https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white">
 <img src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black">
 </p>
-
-<h2 align="left">🎮 Games:</h2>
-<p align="left">
-<a href="https://steamcommunity.com/id/phicsgo/" target="_blank"><img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white"></a>
-</p>

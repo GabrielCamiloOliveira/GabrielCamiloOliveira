@@ -2,11 +2,17 @@
 <h1 align="center">Olá 👋, Eu sou o Gabriel Camilo</h1>
 
 - 🔭 Cursando "Bacharelado em Engenharia de Software" pela **UFG (Universidade Federal de Goiás)**
-
+  
 <h2 align="left">📱 Contato:</h2>
 <p align="left">
 <a href="https://instagram.com/gabriel.camil0" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 <a href = "mailto:gabriel_camilo@discente.ufg.br"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+</p>
+
+<h2 align="left"> Projetos:</h2>
+<p align="left">
+<a href = "https://www.linkedin.com/in/gabrielcamiloliveira/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+<a href = "https://medium.com/@gabrielcamilo03"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" target="_blank"></a>
 </p>
 
 <h2 align="left">💻 Linguagens:</h2>
@@ -20,6 +26,7 @@
 
 <h2 align="left">👩‍💻 Ferramentas:</h2>
 <p align="left">
+<img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white">
 <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white">
 <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white">
 <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white">

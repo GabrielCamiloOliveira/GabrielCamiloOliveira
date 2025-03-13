@@ -9,12 +9,6 @@
 <a href = "mailto:gabriel_camilo@discente.ufg.br"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </p>
 
-<h2 align="left"> Projetos:</h2>
-<p align="left">
-<a href = "https://www.linkedin.com/in/gabrielcamiloliveira/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-<a href = "https://medium.com/@gabrielcamilo03"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" target="_blank"></a>
-</p>
-
 <h2 align="left">💻 Linguagens:</h2>
 <p align="left">
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
@@ -23,7 +17,6 @@
 <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white">
 <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white">
 </p>
-
 
 <h2 align="left">👩‍💻 Ferramentas:</h2>
 <p align="left">
@@ -34,4 +27,10 @@
 <img src="https://img.shields.io/badge/Miro-050038?style=for-the-badge&logo=Miro&logoColor=white">
 <img src="https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white">
 <img src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black">
+</p>
+
+<h2 align="left"> Extra:</h2>
+<p align="left">
+<a href = "https://www.linkedin.com/in/gabrielcamiloliveira/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+<a href = "https://medium.com/@gabrielcamilo03"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" target="_blank"></a>
 </p>

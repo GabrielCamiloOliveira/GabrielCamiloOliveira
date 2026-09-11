@@ -1,7 +1,7 @@
 
 <h1 align="center">Olá 👋, Eu sou o Gabriel Camilo</h1>
 
-- 🔭 UX/UI Designer e Desenvolvedor Front-end, Bacharel em Engenharia de Software" pela **UFG (Universidade Federal de Goiás)**
+- 🔭 UX/UI | Software Engineer, Bacharel em Engenharia de Software" pela **UFG (Universidade Federal de Goiás)**
   
 <h2 align="left">📱 Contato:</h2>
 <p align="left">
